@@ -1,0 +1,4 @@
+main: com.wrrulos.connectcommand.ConnectCommand
+name: ConnectCommand
+version: 1.0
+author: wRRulos
