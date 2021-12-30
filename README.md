@@ -1,0 +1,2 @@
+# ConnectCommand
+Plugin for BungeeCord
