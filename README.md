@@ -1,6 +1,6 @@
 # ⚙️ ConnectCommand
 
-<h4> This is a Bungeecord plugin that I made for my MCPTool tool </h4>
+<h4> This is a Bungeecord plugin that I made for my <a href="https://www.github.com/wrrulos/MCPTool"> MCPTool </a>tool </h4>
 
 ## 📸 Screenshots
 
