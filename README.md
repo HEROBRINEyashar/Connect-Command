@@ -1,4 +1,4 @@
-#⚙️ ConnectCommand
+# ⚙️ ConnectCommand
 
 <h4> This is a Bungeecord plugin that I made for my MCPTool tool </h4>
 
