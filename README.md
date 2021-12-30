@@ -1,12 +1,6 @@
-# 🧨  ConnectCommand
+#⚙️ ConnectCommand
 
-<h3> Plugin for BungeeCord </h3>
-<br/>
-</br>
-<p align="center">
-<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RSubd/1.PNG" title="RSubd">
-</p>
-<br/>
+<h4> This is a Bungeecord plugin that I made for my MCPTool tool </h4>
 
 ## 📸 Screenshots
 
